@@ -1,11 +1,10 @@
 # ADM-HW4 - Hard Coding
 
+In the main file we have implemented these three points:
+1.Hashing
+2.Clustering
+3.Algorithmic question
 
-## 1.Hashing
-In the first point we have implemented our hash function from scratch with an HyperLogLog algorithm, that we used after reading the dataset.
-
-
-## 2.Clustering
-
-
-## 3.Algorithmic question
+Edoardo Ulrich Proverbio 1658119
+Gaurav Ramse 1965564
+Teodoro Caputo 1658660
